@@ -1,0 +1,6 @@
+Revision history for Perl extension Finance::Performance::Calc.
+
+1.0  Tue Apr 20 20:47:02 2004
+	- original version; created by h2xs 1.23 with options
+		-AXc -n Finance::Performance::Calc -v 1.0
+
