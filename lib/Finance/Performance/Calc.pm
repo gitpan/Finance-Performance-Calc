@@ -15,7 +15,7 @@ our %EXPORT_TAGS = ( 'all' => [ qw (ROR
 				   ) ] );
 our @EXPORT_OK = ( @{ $EXPORT_TAGS{'all'} } );
 our @EXPORT = qw ();
-our $VERSION = '1.0';
+our $VERSION = '1.01';
 
 use Carp;
 
